@@ -12,6 +12,8 @@ gem 'foundation-rails'
 gem 'ancestry'
 gem 'rails_admin'
 gem 'react-rails', '~> 1.5.0'
+gem 'flux-rails-assets'
+gem 'lodash-rails'
 
 group :development, :test do
   gem 'byebug'
