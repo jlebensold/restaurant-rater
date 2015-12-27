@@ -1,5 +1,4 @@
 
-// import CommentStore from 'stores/comment_store';
+import CommentStore from 'stores/comment_store';
 
-// window.Store = new CommentStore()
-alert('Hello');
+window.Store = new CommentStore()
