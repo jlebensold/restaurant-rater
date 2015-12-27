@@ -14,6 +14,7 @@ gem 'rails_admin'
 gem 'react-rails', '~> 1.5.0'
 gem 'flux-rails-assets'
 gem 'lodash-rails'
+gem 'sprockets', '>=3.0.0'
 gem 'sprockets-es6'
 
 group :development, :test do
