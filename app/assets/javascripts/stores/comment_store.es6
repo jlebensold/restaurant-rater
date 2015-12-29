@@ -1,6 +1,5 @@
-import AppDispatcher from '/components/app_dispatcher';
-import Constants from '/constants';
-
+import AppDispatcher from 'app_dispatcher';
+import Constants from 'constants';
 class CommentStore extends EventEmitter {
   constructor() {
     super()
